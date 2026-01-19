@@ -1,0 +1,4 @@
+train: D:/VScode/xiangmu/recognize-main/data/train/images
+val: D:/VScode/xiangmu/recognize-main/data/val/images
+nc: 7
+names: ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
